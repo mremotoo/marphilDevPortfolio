@@ -1,6 +1,7 @@
 {
   "name": "portfolioTemplate",
   "version": "2.0.0",
+  "homepage" : "https://mremotoo.github.io/marphilDevPortfolio/",
   "private": false,
   "dependencies": {
     "@emotion/react": "^11.9.0",
@@ -23,12 +24,11 @@
     "react-router-dom": "^6.3.0",
     "react-scripts": "^5.0.1",
     "sass": "^1.54.5",
-    "typescript": "^4.7.4",
-    "homepage" : "https://mremotoo.github.io/Portfolio-Marphil-dev/"
-    
-
+    "typescript": "^4.7.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
