@@ -1,8 +1,8 @@
 # React Portfolio, multiple pages with dark mode
 
 <!-- ![screenshot](https://user-images.githubusercontent.com/18350557/176953627-cd79fe83-0b84-4082-b79e-cc88da28f2e1.png) -->
-![screenshot](https://ibb.co/mrj3QnW)
-![screenshot](https://ibb.co/ZGZypCC)
+![screenshot](https://i.ibb.co/gb2xs0K/mobileview-dark-mode.png)
+![screenshot](https://i.ibb.co/yd3LcJJ/mobile-view-light-mode.png)
 
 
 [View Live Example](https://paytonpierce.dev/)
