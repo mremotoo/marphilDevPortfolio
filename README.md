@@ -5,7 +5,7 @@
 ![screenshot](https://i.ibb.co/yd3LcJJ/mobile-view-light-mode.png)
 
 
-[View Live Example](https://paytonpierce.dev/)
+[View Live Example](https://mremotoo.github.io/marphilDevPortfolio/)
 
 ## features
 
