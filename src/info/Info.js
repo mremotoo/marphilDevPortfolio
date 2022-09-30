@@ -1,4 +1,4 @@
-import self from "../img/self.png"
+import self from '../img/self.png'
 import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
@@ -8,7 +8,10 @@ import mock5 from "../img/mock5.png"
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
 
-export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
+// export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
+export let colors = ["rgb(148, 3, 0)", "rgb(70, 171, 245)"];
+// rgb(148, 3, 0), rgb(70, 171, 245)
+// linear-gradient(to right, rgb(41, 90, 136), rgb(6, 221, 241));
 /*
 I highly recommend using a gradient generator like https://gradientgenerator.paytonpierce.dev/ to generate a pair of colors that you like.
 These colors will be used to style your name on the homepage, the background of your picture, and some other accents throughout
@@ -23,10 +26,10 @@ of what each of the values mean.
  */
 
 export const info = {
-    firstName: "John",
-    lastName: "Smith",
-    initials: "js", // the example uses first and last, but feel free to use three or more if you like.
-    position: "a Full Stack Developer",
+    firstName: "Marphil",
+    lastName: "Remoto",
+    initials: "MR", // the example uses first and last, but feel free to use three or more if you like.
+    position: "a Web Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
@@ -41,11 +44,11 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Systems Engineer at Google"
+            text: "Design Engineer at Comcast Business"
         },
         {
             emoji: "📧",
-            text: "johnsmith@gmail.com"
+            text: "mremotoo@gmail.com"
         }
     ],
     socials: [
@@ -78,11 +81,11 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Marphil. As a software engineer, I build websites and web apps, helping businesses find their online presence. As a family man, I am passionate, am for a strong, long-term relationship. I am committed. I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator']
+            proficientWith: ['javascript', 'git', 'github', 'bootstrap', 'html5', 'css3', 'node', 'express', 'mongodb', 'mongoose'],
+            exposedTo: ['nodejs', 'python', 'kotlin', 'lua', 'C']
         }
     ,
     hobbies: [
@@ -91,8 +94,8 @@ export const info = {
             emoji: '📖'
         },
         {
-            label: 'theater',
-            emoji: '🎭'
+            label: 'piano',
+            emoji: '🎹♪♫♬'
         },
         {
             label: 'movies',
