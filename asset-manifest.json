@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/marphilDevPortfolio/static/css/main.f31807f5.css",
+    "main.js": "/marphilDevPortfolio/static/js/main.f0918239.js",
+    "static/media/mock5.png": "/marphilDevPortfolio/static/media/mock5.c9b5f54e8517e13fc897.png",
+    "static/media/self.png": "/marphilDevPortfolio/static/media/self.e2477a4561da805cfe11.png",
+    "static/media/mock2.png": "/marphilDevPortfolio/static/media/mock2.e8ed2c07928dfdc15a79.png",
+    "static/media/mock1.png": "/marphilDevPortfolio/static/media/mock1.e11f6103909e8c52d703.png",
+    "static/media/mock3.png": "/marphilDevPortfolio/static/media/mock3.8624cffbb7ae4e742c4c.png",
+    "static/media/mock4.png": "/marphilDevPortfolio/static/media/mock4.2b2ba794bc5cd75eb2c1.png",
+    "index.html": "/marphilDevPortfolio/index.html",
+    "main.f31807f5.css.map": "/marphilDevPortfolio/static/css/main.f31807f5.css.map",
+    "main.f0918239.js.map": "/marphilDevPortfolio/static/js/main.f0918239.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f31807f5.css",
+    "static/js/main.f0918239.js"
+  ]
+}
